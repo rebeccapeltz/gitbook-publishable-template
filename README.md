@@ -16,6 +16,8 @@ https://help.github.com/articles/duplicating-a-repository/
 
 4. Remove the temporary repository create above  
 `cd ..`
-`rm -rf old-repository.git`  
+`rm -rf old-repository.git`
+
+Yay!
 
 
