@@ -8,10 +8,10 @@ https://help.github.com/articles/duplicating-a-repository/
 
 
 2. Create a bare clone of this repository
-`git clone --bare https://github.com/exampleuser/old-repository.git`
+`git clone --bare https://github.com/rebeccapeltz/gitbook-publishable-template.git`
 
 3. Mirror-push to new repository
-`cd old-repository.git`  
+`cd gitbook-publishable-tempalte.git`  
 `git push --mirror https://github.com/useraccount/new-repository.git`  
 
 4. Remove the temporary repository create above  
