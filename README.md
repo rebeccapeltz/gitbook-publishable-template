@@ -11,7 +11,7 @@ https://help.github.com/articles/duplicating-a-repository/
 `git clone --bare https://github.com/rebeccapeltz/gitbook-publishable-template.git`
 
 3. Mirror-push to new repository
-`cd gitbook-publishable-tempalte.git`  
+`cd gitbook-publishable-template.git`  
 `git push --mirror https://github.com/useraccount/new-repository.git`  
 
 4. Remove the temporary repository create above  
