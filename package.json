@@ -1,19 +1,19 @@
 {
-  "name": "making-music",
+  "name": "gitbook-publishable-template",
   "version": "1.0.0",
-  "description": "A guide to using Gitbook",
+  "description": "A template for publishing a Gitboo",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rebeccapeltz/how-to-use-gitbook.git"
+    "url": "git+https://github.com/rebeccapeltz/gitbook-publishable-template.git"
   },
   "author": "Becky Peltz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rebeccapeltz/how-to-use-gitbook/issues"
+    "url": "https://github.com/rebeccapeltz/gitbook-publishable-template/issues"
   },
   "devDependencies": {
     "child_process": "^1.0.2",
@@ -22,5 +22,5 @@
     "gulp-gh-pages": "^0.5.4",
     "gulp-load-plugins": "^1.5.0"
   },
-  "homepage": "https://github.com/rebeccapeltz/making-music#readme"
+  "homepage": "https://github.com/rebeccapeltz/gitbook-publishable-tempalte#readme"
 }
